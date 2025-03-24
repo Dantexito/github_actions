@@ -1,2 +1,2 @@
-rupty==1.0.2
+rutpy==1.0.2
 pytest==8.3.5
